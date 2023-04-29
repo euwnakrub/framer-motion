@@ -1,11 +1,5 @@
 /* fonts */
-@font-face {
-  font-family: 'Quicksand';
-  src: url('/Quicksand-Light.woff2') format('woff2'),
-      url('/Quicksand-Light.woff') format('woff');
-  font-weight: 300;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 
 /* reset & common styles */
 body, ul, h1, h2, h3, p, button, a, div{
