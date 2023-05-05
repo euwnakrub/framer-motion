@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion'
-import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 
 const Header = () => {
   return (
@@ -22,7 +21,7 @@ const Header = () => {
         animate={{ y: 0 }}
         transition={{ delay: 0.2 , type: 'spring', stiffness: 120 }}
       >
-        <Link to="/"><h1>Pizza Joint</h1></Link>
+        <h1>Pizza Joint</h1>
       </motion.div>
     </header>
   )
