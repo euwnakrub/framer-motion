@@ -6,3 +6,6 @@ Learning framer motion from The net ninja
 
 ## Youtube
 [Framer Motion (for React)](https://www.youtube.com/watch?v=2V1WK-3HQNk&list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i)
+
+## More from Framer
+[Framer API](https://www.framer.com/api/motion)
